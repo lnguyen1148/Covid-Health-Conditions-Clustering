@@ -5,8 +5,11 @@ Over the past years, the COVID virus has affected many people around the world. 
 ## Datasets
 For our dataset, we used a combination of two help us classify the severity of a patient.
 1. NST-EST2021-alldata.csv from the United States Census Bureau
-2. Conditions_Contributing_to_COVID-19_Deaths_by_State
-_and_Age_Provisional_2020-2022.csv from CDC
+2. Conditions_Contributing_to_COVID-19_Deaths_by_State_and_Age_Provisional_2020-2022.csv from CDC
+(https://data.cdc.gov/NCHS/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm)
 
 ## Modeling
 Since the problem is identified as an unsupervised learning and the dataset is comprised of categorical features, we execute four clustering techniques for categorical data: Kmodes, DBSCAN, Gaussian Mixture,and Agglomerative Clustering.
+
+
+. Members contributed: Linh Nguyen, Justin Lee
