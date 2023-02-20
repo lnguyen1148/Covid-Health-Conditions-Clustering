@@ -9,4 +9,4 @@ For our dataset, we used a combination of two help us classify the severity of a
 _and_Age_Provisional_2020-2022.csv from CDC
 
 ## Modeling
-Since the problem is identified as an unsupervised learning and the dataset is comprised of categorical features, we execute four clustering techniques for categorical data.
+Since the problem is identified as an unsupervised learning and the dataset is comprised of categorical features, we execute four clustering techniques for categorical data: Kmodes, DBSCAN, Gaussian Mixture,and Agglomerative Clustering.
